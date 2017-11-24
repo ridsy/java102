@@ -15,16 +15,16 @@ public class App {
 		List<Employee> employees = Arrays.asList(e1,e2,e3,e4);
 		
 		ItemLib lib = new ItemLib();
-		//lib.forEach(employees, s->System.out.println(s.getDob()));
+		lib.forEach(employees, s->System.out.println(s.getDob()));
 		
-		List<Employee> sal=lib.filter(employees, s->s.getSalary()>15000);
+		/*List<Employee> sal=lib.filter(employees, s->s.getSalary()>15000);
 		
 		List<String> newlist = lib.map(sal, s->s.getName());
 		
 		lib.forEach(sal,s->System.out.println(s));
 		
 		lib.forEach(newlist,s->System.out.println(s));
-		
+		*/
 
 	}
 

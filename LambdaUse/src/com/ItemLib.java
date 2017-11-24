@@ -18,8 +18,7 @@ public class ItemLib {
 	public<T> void forEach(List<T> list,Consumer<T> action) {
 		
 		list.forEach(action);
-		
-		
+			
 	}
 	
 	public <T> List <T> filter(List <T> list,Predicate<T> predicate){
