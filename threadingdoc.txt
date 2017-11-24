@@ -1,0 +1,18 @@
+one process cannot access other process memory/data.this is possible only through os
+
+Main advantage of multithreading - using the system resources effectively by executing more than one task. 
+
+Every java obj have its own lock with key for synchronization.
+
+
+
+1st thread produce even no
+
+2nd thread produce odd no
+
+produce sequence in order
+
+
+use wait/notify order
+
+cts-btp-java
