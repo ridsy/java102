@@ -1,0 +1,49 @@
+== -> To compare references   //Strings created without new ->gives true                                                               
+
+equals -> Checks content
+
+Note-> String constant pool(SCP)
+
+
+Strings can be used in enum from java 1.4
+
+
+
+EQUALS AND HASHCODE-> IMP tOPIC   
+
+
+
+
+Reflection ApI - Internal structure of the class  - name,methods - using object of the class
+
+//every class has special property- .class
+
+
+                 
+
+Annotation - to describe program to someone else
+
+
+Interface with no methods - marker interface
+
+
+                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
